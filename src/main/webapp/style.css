@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 *{
     box-sizing: border-box;
     margin: 0;
@@ -478,22 +477,6 @@ section:nth-of-type(3){
   font-family:courier, monospace;
   text-align:justify;
   /*margin-top: 100px;*/
-=======
-#titulo {
-  margin-left: auto;
-  margin-right: auto;
-  width: 650px;
-  font-family:courier, monospace;
-  text-align:center;
-}
-
-#contenido{
-  margin-left: auto;
-  margin-right: auto;
-  width: 700px;
-  font-family:courier, monospace;
-  text-align:justify;
->>>>>>> main
 }
 
 #greeting-container {
@@ -501,7 +484,6 @@ section:nth-of-type(3){
   text-align:center;
 }
 
-<<<<<<< HEAD
 #tit h2{
     color: rgba(51, 51, 51, 0.5);
     font-size: medium;
@@ -512,8 +494,6 @@ section:nth-of-type(3){
 #tit:hover h2{
     color: #333;
 }
-=======
->>>>>>> main
 
 .yo {
     width: 288px;
@@ -521,7 +501,6 @@ section:nth-of-type(3){
     display: block;
     margin-left: auto;
     margin-right: auto;
-<<<<<<< HEAD
 }
 
 .paul{
@@ -744,23 +723,3 @@ input::-webkit-inner-spin-button {
     color: red;
     transition: color 0.4s;
 }
-=======
-}
-
-.paul{
-    width: 384px;
-    height: 512px;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-}
-
-.row {
-    display: flex;
-  }
-  
-.column {
-    flex: 50%;
-    padding: 5px;
-  }
->>>>>>> main

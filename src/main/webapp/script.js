@@ -15,12 +15,6 @@
 /**
  * Adds a random greeting to the page.
  */
-<<<<<<< HEAD
-=======
-function addRandomGreeting() {
-  const greetings =
-      ['For 7 years i lived in Guatemala', 'I live alone in Mexico', 'My favorite movie is interestellar', 'Im studying Software Ingeneering at Tecnologico de Monterrey'];
->>>>>>> main
 
 async function fetchInfo() {
     const response = await fetch('/form-handler');
